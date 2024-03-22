@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="SSD4" size="15.000000 9.550000" />
+    <ImageTarget name="SSD3" size="15.000000 8.400000" />
+    <ImageTarget name="SSD" size="15.000000 10.852273" />
+    <ImageTarget name="PSU4" size="15.000000 7.619048" />
+    <ImageTarget name="PSU3" size="15.000000 14.669603" />
+    <ImageTarget name="PSU2" size="15.000000 9.981818" />
+    <ImageTarget name="PSU" size="15.000000 11.542969" />
+    <ImageTarget name="headphone4" size="15.000000 15.000000" />
+    <ImageTarget name="headphone3" size="15.000000 15.000000" />
+    <ImageTarget name="headphone2" size="15.000000 15.000000" />
+    <ImageTarget name="headphone" size="15.000000 15.000000" />
+    <ImageTarget name="fans4" size="15.000000 15.000000" />
+    <ImageTarget name="fans3" size="15.000000 15.000000" />
+    <ImageTarget name="fans2" size="15.000000 7.042683" />
+    <ImageTarget name="fans" size="15.000000 15.000000" />
+    <ImageTarget name="Monitor4" size="15.000000 15.000000" />
+    <ImageTarget name="Monitor3" size="15.000000 13.275595" />
+    <ImageTarget name="Monitor2" size="15.000000 10.754717" />
+    <ImageTarget name="keyboard3" size="15.000000 4.987500" />
+    <ImageTarget name="keyboard2" size="15.000000 6.065625" />
+    <ImageTarget name="keyboard" size="15.000000 5.528455" />
+    <ImageTarget name="Mouse4" size="15.000000 9.230769" />
+    <ImageTarget name="Mouse3" size="15.000000 15.000000" />
+    <ImageTarget name="Mouse2" size="15.000000 15.000000" />
+    <ImageTarget name="Mouse" size="15.000000 13.143750" />
+    <ImageTarget name="HDD4" size="15.000000 15.000000" />
+    <ImageTarget name="HDD3" size="15.000000 15.066964" />
+    <ImageTarget name="HDD2" size="15.000000 7.987013" />
+    <ImageTarget name="HDD" size="15.000000 11.049619" />
+    <ImageTarget name="ramImage4" size="15.000000 8.144531" />
+    <ImageTarget name="GPU4" size="15.000000 11.235521" />
+    <ImageTarget name="MotherBoard4" size="15.000000 13.782051" />
+    <ImageTarget name="MotherBoard3" size="15.000000 9.315789" />
+    <ImageTarget name="MotherBoard2" size="15.000000 9.945652" />
+    <ImageTarget name="MotherBoard" size="15.000000 17.451923" />
+    <ImageTarget name="GPU3" size="15.000000 7.912621" />
+    <ImageTarget name="GPU2" size="15.000000 14.800885" />
+    <ImageTarget name="GPU" size="15.000000 9.642858" />
+    <ImageTarget name="ramImage3" size="15.000000 11.235521" />
+    <ImageTarget name="ramImage2" size="15.000000 11.235521" />
+    <ImageTarget name="CPUimage4" size="15.000000 10.000000" />
+    <ImageTarget name="CPUimage3" size="15.000000 15.000000" />
+    <ImageTarget name="CPUimage2" size="15.000000 8.400000" />
+    <ImageTarget name="CPUimage" size="15.000000 10.111821" />
+    <ImageTarget name="ramImage" size="15.000000 6.004902" />
+  </Tracking>
+</QCARConfig>
