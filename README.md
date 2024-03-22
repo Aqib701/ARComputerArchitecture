@@ -10,7 +10,6 @@ Project is Modular and can be modified for similar kinds of demonstration projec
 
 
 **Short Demo**
-<p align="center"><img src="https://github.com/FFaUniHan/Unity_VRoid_3D_Character_Controller_Starter_Asset/blob/main/demo.gif" width=100% height=100%></p>
 
 
 - UnityVersion used: 2020.3.30f1
