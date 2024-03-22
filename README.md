@@ -10,7 +10,7 @@ Project is Modular and can be modified for similar kinds of demonstration projec
 
 
 **Short Demo**
-
+<p align="center"><img src="https://github.com/Aqib701/ARComputerArchitecture/assets/57903584/866c1db2-194e-4493-b813-9f45ddd2c6e9" width=100% height=100%></p>
 
 - UnityVersion used: 2020.3.30f1
 - Vuforia Marker Baed AR is employed in developing the idea: The Marker Images can be found under : ComputerArchitectureAR\Assets\ProjectAssets\Dataset
