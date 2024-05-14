@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: VuforiaConfiguration
   m_EditorClassIdentifier: 
   vuforia:
-    vuforiaLicenseKey: AbbKQ3n/////AAABmRtZMdSLYkQypXi1W/ALIqVFO1YdQV5y6XiCmfGjDajByXFChZl30nyuN2kYO4zTfgWrbnAeoUoaE777rvgPwyUDMsHDegBu+HtLiCNVEHvRcw8XIpHGCalRnjGz02h67ml7vsILl7gg7hQcD5U/Mfh//jOU/bTfQZj+lPqOUXsl0n2YJybkT0BshQrXFYmo3TXFuTxReXdBtZFTSi2tLYJlgzvc0D3GVH9g42Scmb45ddzsMRBtwf0R+bOACtFGBHBpyq6FfevnNTb0Poyf5zBMOIthdDxgXOtUcAgSfve798ndkjkaTTOgj2Qfcz4kYPL1xvByYyrJS+/ZIgyN43Gm3x9n2IRKgnnqtdjHvLEh
-    ufoLicenseKey: QVhiM0Y1Ly8vLy8vQUFBQUtPbnFIeHJFSGs1N3VrMlg4U050eVBzK2pkOFZxMDhrazlwYjBsYS9aZUIxQlV1ckZWcWt0ZllSQWpnT2tIRlY2VzdOMDRTRjNYRUhmbTF5L1BnYlB4eWdHWEF6RUNheXowc3dyNVNYa2ozdERuRjhka1FpOHRscHdkMDcrcEJEY1FjTjNJcUM1bEgwOTYzQkdZdjRsQStRb0hSQU9nRGthelp5TlY0WHVwWU9EaE05NWw5bXAzbnBDMjM5MWZBWXBFdEdiL2loTDNab3N4b25ZblhjK1JtSS9wLzRoTDIwVGhmTXR6WFJNYkpUTXZLZzJoQ0N0TEJXNEptZ0pSOUtSdStzQWM3QjVNOWFFMGVHQ1dUT1VRSUUweEpiZC9ZL2cvS29iNDhBRXdQOGFwbWR5NmRWU0FHU2psVzRZY2FEU2Zud3J1ZHhucVNmSUZiajNTUnIzM0lKVlFIaW1rL0oyOGNFeDdyekcySXg=
+    vuforiaLicenseKey: 
+    ufoLicenseKey: QWMwK2NCSC8vLy8vQUFBQUtBQ2hNTXBUU2svWnFNSXlMRTBzVzU5aDhIeWU2M2VabXJWZWlRdEhVdnF2aWFiODFTa3Buakp2NjNqNkJJTmFOTFZkMEwzV20zRitvdUFBVGkvZzllUmN0bUc2L1BFSVZsSGUxSlBDcnlnY3U0SURuNE0yTkZGQVFoakZzNWhxNjF5OS9ZbWJ6dVphNU93NHhocFVZZlVjR09RVklmM0UzL2x0K1c2UUI5d3d1ZXppMWpzOTJXVURHa2hRUVhjTG55NWZjOVlwdUxFOWdCdjBKYkhwbnFvM0daWHEvYWxvS1NGcmN1a1NtYzdrQkZMa1poMHpDVUY0RGRYL0gwbkNUMTY2NWptS2FUM0pmTGI5N05DU3B4Y2Fha2hRQkQveFNwL0FsQU5WMmRmeDJjZ2pPeU9pRDFkL1lacmN2aElqWkZIZktVeFFqa3FzK292clRySm9sSTYrUTlWZGlKRHF0dGduNjNKK2hYaDU=
     delayedInitialization: 0
     cameraFocusModeSetting: 2
     cameraDeviceModeSetting: -1
@@ -24,17 +24,17 @@ MonoBehaviour:
     shareRecordingsInITunes: 0
     logLevel: 0
     version: 10.15.4
-    eulaAcceptedVersions: '{"Values":["0.0","10.15","10.17"]}'
+    eulaAcceptedVersions: '{"Values":["","0.0","10.15","10.17"]}'
   database:
     disableModelExtraction: 0
   shaders:
-    depthMaskShader: {fileID: 4800000, guid: 9894afa5f3a5e4bbca625981beb1b20e, type: 3}
-    outlineShader: {fileID: 4800000, guid: 88d3b6b5cf364476ca39fcec255331b1, type: 3}
+    depthMaskShader: {fileID: 4800000, guid: 1ce7eb78425fb1540838bc9d5d95857a, type: 3}
+    outlineShader: {fileID: 4800000, guid: c1ded68d068051d4f92650fcddaae5c7, type: 3}
     unlitTransparentShader: {fileID: 10750, guid: 0000000000000000f000000000000000,
       type: 0}
   videoBackground:
     numDivisions: 2
-    videoBackgroundShader: {fileID: 4800000, guid: 144dfca22ac584ade9e538e24a5ddded,
+    videoBackgroundShader: {fileID: 4800000, guid: f40623b353e2f1943b1b3ba42975db7a,
       type: 3}
     unlitShader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
     videoBackgroundEnabled: 1
@@ -42,11 +42,11 @@ MonoBehaviour:
     autoStartTracker: 1
     arcoreRequirement: 1
     autoImportArcore: 1
-    thirdPartyARCoreClientDetected: 1
+    thirdPartyARCoreClientDetected: 0
   playmode:
     mRecordingPath: 
     playModeType: 0
   webcam:
     renderTextureLayer: 30
   packageInformation:
-    ARFoundationVersion: 4.2.3
+    ARFoundationVersion: 

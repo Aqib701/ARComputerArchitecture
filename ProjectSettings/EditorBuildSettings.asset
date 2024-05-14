@@ -9,23 +9,14 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 66b8577f36ee97a4f960a710e769ab8d
   - enabled: 1
-    path: Assets/Scenes/3dScene.unity
-    guid: b4e0841a0d38cd44e89c0b5437723d00
-  - enabled: 1
     path: Assets/Scenes/PCByParts.unity
     guid: 23c6ad8a8c7212a4fb22eda506b46db4
   - enabled: 1
-    path: Assets/Scenes/AnimationByParts.unity
-    guid: 7ec8fe767c4b0664d80dca89bbaff612
+    path: Assets/Scenes/3dScene.unity
+    guid: b4e0841a0d38cd44e89c0b5437723d00
   - enabled: 1
     path: Assets/Scenes/AR.unity
     guid: 85b5d0022e0fb7140858ccdb6d69f11e
   m_configObjects:
-    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
-      type: 2}
-    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 301b053af0eafee47a87d87bd84c0b61,
-      type: 2}
-    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: de8a8e4f987434338a4b1062feb8d069,
-      type: 2}
-    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 1eb95d77acb39444e8cf44313496a874,
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 595aa94ad0db0664a89ed69806d47abe,
       type: 2}
