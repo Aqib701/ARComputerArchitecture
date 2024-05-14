@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.XR.ARFoundation;
+using UnityEngine.XR.Management;
 using UnityEngine.XR.ARSubsystems;
 
 //
@@ -9,9 +10,9 @@ using UnityEngine.XR.ARSubsystems;
 // Anchors are a particular point in space that you are asking your device to track.
 //
 
-[RequireComponent(typeof(ARAnchorManager))]
 [RequireComponent(typeof(ARRaycastManager))]
-[RequireComponent(typeof(ARPlaneManager))]
+[RequireComponent(typeof(ARRaycastManager))]
+[RequireComponent(typeof(ARRaycastManager))]
 public class AnchorCreator : MonoBehaviour
 {
     // This is the prefab that will appear every time an anchor is created.

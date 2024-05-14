@@ -11,7 +11,7 @@ using UnityEngine;
 public class animationByPartsManager : MonoBehaviour
 {
 
-    public panAndRotate[] PcComponents;
+    public SelectableObject[] PcComponents;
     public Transform pointerObject;
     void Start()
     {
