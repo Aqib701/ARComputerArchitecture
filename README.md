@@ -1,5 +1,5 @@
 # ARComputerArchitecture
-This project is a demonstration of the used of Games for Educational Use. This project demonstrates workinf of different internal and external parts of a computer and Provides details about their working in both written and audio.
+This project is a demonstration of the used of Games for Educational Use. This project demonstrates workings of different internal and external parts of a computer and Provides details about their working in both written and audio.
 
 The AR is used for marker based image tracking which allows for different kinds of models and images.
 Project is Modular and can be modified for similar kinds of demonstration projects.
